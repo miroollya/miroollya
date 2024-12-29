@@ -35,23 +35,13 @@
 
 ## 🌟 Featured Projects
 
-### 🤖 AI-Powered Network Intrusion Detection
-Advanced IDS system using machine learning for real-time threat detection
-[![IDS Project](https://github-readme-stats.vercel.app/api/pin/?username=yourGitHubUsername&repo=network-ids-ai)](https://github.com/yourGitHubUsername/network-ids-ai)
-
-### 🔒 Network Automation Framework
-Automated security configuration and compliance checking tool
-[![Automation Framework](https://github-readme-stats.vercel.app/api/pin/?username=yourGitHubUsername&repo=security-automation)](https://github.com/yourGitHubUsername/security-automation)
+check my repo!
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourLinkedIn)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourTwitter)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourLinkedIn](https://www.linkedin.com/in/amirul-hakim-mohd-yusri-98b605270/))
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:amirulhakim.mohdyusri@gmail.com)
 
 ## 🏆 Achievements
-- 🥇 [Mention specific hackathon achievements with AI/ML projects]
-- 🔒 [List relevant cybersecurity certifications]
-- 🌟 [Highlight significant contributions to security tools/frameworks]
 
 ---
 ⚡ *"Security is not a product, but a process"* - Bruce Schneier

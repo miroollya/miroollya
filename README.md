@@ -28,10 +28,10 @@
 - 🧠 AI Model Development
 
 ## 📈 GitHub Stats
-![Amirul's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourGitHubUsername&show_icons=true&theme=dark)
+![Amirul's GitHub stats](https://github-readme-stats.vercel.app/api?username=miroollya&show_icons=true&theme=dark)
 
 ## 🏆 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourGitHubUsername&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miroollya&layout=compact&theme=dark)
 
 ## 🌟 Featured Projects
 
